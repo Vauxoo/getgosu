@@ -1,0 +1,4 @@
+[submodule "getgosu"]
+	path = getgosu
+	url = git@git.vauxoo.com:vauxoo/getgosu.git
+	branch = 16.0
